@@ -1,0 +1,13 @@
+[package]
+name = "yarrow"
+version = "0.1.0"
+authors = ["Jeremy Zheng <jitang.zheng@gmail.com>"]
+edition = "2018"
+description = "命理库"
+homepage = "https://github.com/saturn-xiv/yarrow"
+license = "MIT"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
